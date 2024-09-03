@@ -7,6 +7,3 @@
 - [@article@Two-factor authentication (2FA)](https://authy.com/what-is-2fa/)
 - [@article@Biometrics (fingerprint, facial recognition, etc.)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5428991/)
 - [@article@Security tokens or certificates](https://www.comodo.com/e-commerce/ssl-certificates/certificate.php)
-- [@article@Role-based access control (RBAC)](https://en.wikipedia.org/wiki/Role-based_access_control)
-- [@article@Access Control Lists (ACLs)](https://en.wikipedia.org/wiki/Access-control_list)
-- [@article@Attribute-based access control (ABAC)](https://en.wikipedia.org/wiki/Attribute-based_access_control)
